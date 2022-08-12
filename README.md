@@ -57,7 +57,8 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=UHN5Y2hva2lsbGVyLTUvRXZhTWFyaWEgbWFzdGVy">
+<a href="https://telegram.dog/XTZ_HerokuBot?start=UHN5Y2hva2lsbGVyLTUvU3BvdGlmeS1maWx0ZXIgbWFzdGVy
+">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
