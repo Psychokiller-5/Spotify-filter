@@ -44,7 +44,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🎶 Log Group', url='https://t.me/+xBmqWbXim_QwN2Q1'),
             InlineKeyboardButton('🤖 Updates', url='https://t.me/SpotifyMainTeam')
             ],[
             InlineKeyboardButton('❤ Owner', url='https://t.me/psycho_killer5'),
@@ -90,7 +90,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
+            InlineKeyboardButton('🎶 Log Group', url='https://t.me/+xBmqWbXim_QwN2Q1'),
             InlineKeyboardButton('🤖 Updates', url='https://t.me/SpotifyMainTeam')
             ],[
             InlineKeyboardButton('❤ Owner', url='https://t.me/SpotifyMainTeam'),
