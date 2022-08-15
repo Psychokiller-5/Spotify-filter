@@ -1,6 +1,6 @@
 class script(object):
     START_TXT = """Hello {},
-My name is <a href=https://t.me/{}>{}</a>,\n\n🎶🎵 Welcome to Spotify Downloa 🎵🎶I can help you search 🔍, listen 🎧 and download 📱 songs easily using Spotify URLs and custom queries! You can directly send Spotify URLs of tracks, playlists and albums to download them.---\n\nbot may be slow❌"""
+My name is <a href=https://t.me/{}>{}</a>,\n\n🎶🎵 Welcome to Spotify Downlo 2.5🎵🎶I can help you search 🔍, listen 🎧 and download 📱 songs easily using Spotify URLs and custom queries! You can directly send Spotify URLs of tracks, playlists and albums to download them.---\n\nbot may be slow❌"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
