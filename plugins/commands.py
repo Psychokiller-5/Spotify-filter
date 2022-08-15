@@ -45,6 +45,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🎶 Log Group', url='https://t.me/+xBmqWbXim_QwN2Q1'),
+            InlineKeyboardButton('💥❤Rate Me', url='https://t.me/dailychannelsbot?start=spotify_downlo_bot')
             InlineKeyboardButton('🤖 Updates', url='https://t.me/SpotifyMainTeam')
             ],[
             InlineKeyboardButton('❤ Owner', url='https://t.me/psycho_killer5'),
