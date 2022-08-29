@@ -50,7 +50,7 @@ async def start(client, message):
             InlineKeyboardButton('💥❤Rate Me', url='https://t.me/dailychannelsbot?start=spotify_downlo_bot')
             ],[
             InlineKeyboardButton('❤ Owner', url='https://t.me/psycho_killer5'),
-            InlineKeyboardButton('😊 Music Group', url='https://t.me/spotify_downloa')
+            InlineKeyboardButton('😊 Music Group', url='https://t.me/SpoyifymusicDowlo')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -96,7 +96,7 @@ async def start(client, message):
             InlineKeyboardButton('🤖 Updates', url='https://t.me/SpotifyMainTeam')
             ],[
             InlineKeyboardButton('❤ Owner', url='https://t.me/SpotifyMainTeam'),
-            InlineKeyboardButton('😊 Music Group', url='https://t.me/spotify_downloa')
+            InlineKeyboardButton('😊 Music Group', url='https://t.me/SpoyifymusicDowlo')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
